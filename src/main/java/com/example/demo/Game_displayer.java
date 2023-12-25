@@ -46,7 +46,6 @@ public class Game_displayer extends Canvas {
 //        for start it always gets up
         if (singleton!=0){
             double W = getWidth();
-            double H = getHeight();
             double in = W/3;
 
             GraphicsContext gc = getGraphicsContext2D();
