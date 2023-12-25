@@ -7,6 +7,7 @@ import javafx.scene.control.Label;
 public class Controller {
     @FXML
     private Label welcomeText;
+    @FXML
     Canvas board_Game;
     @FXML
     protected void onHelloButtonClick() {
